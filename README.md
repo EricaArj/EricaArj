@@ -1,4 +1,4 @@
-![Gitstaly](https://user-images.githubusercontent.com/123902058/225516584-0795497c-7e07-412c-9b13-51276b1d02b7.gif)
+![feweqweqwa](https://user-images.githubusercontent.com/123902058/225523588-299a9902-e81e-4859-8b70-0539d353bd35.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a24a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erica+Araújo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -10,11 +10,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
-<br></div>
-
 <div style="display: inline_block"><br>
   <div align="center">
     <img align="center" alt="Eri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -23,4 +18,12 @@
     </div>
 </div>
 
-![Gitstaly](https://user-images.githubusercontent.com/123902058/225516584-0795497c-7e07-412c-9b13-51276b1d02b7.gif)
+<div align="center">
+<br><p align="centre"><b>Contagem de Visitantes</b></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
+<br></div>
+
+
+
+
+![feweqweqwa](https://user-images.githubusercontent.com/123902058/225523588-299a9902-e81e-4859-8b70-0539d353bd35.gif)
