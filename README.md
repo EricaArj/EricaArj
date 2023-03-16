@@ -7,6 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaArj&layout=compact&hide_border=true&title_color=08a24a&text_color=08a24a&bg_color=0d1117" />
 </div>
 
+![ytyrtryt](https://user-images.githubusercontent.com/123902058/225524741-308563df-cfde-4a37-9aa3-28eac1da86b1.gif)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
