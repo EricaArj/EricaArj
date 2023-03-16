@@ -1,4 +1,4 @@
-![feweqweqwa](https://user-images.githubusercontent.com/123902058/225523588-299a9902-e81e-4859-8b70-0539d353bd35.gif)
+![estrelas](https://user-images.githubusercontent.com/123902058/225525557-52e5891f-e787-49dd-b5ce-d8ca6d4fcd8e.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a24a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erica+Araújo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -25,7 +25,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
 <br></div>
 
-
-
-
-![feweqweqwa](https://user-images.githubusercontent.com/123902058/225523588-299a9902-e81e-4859-8b70-0539d353bd35.gif)
+![estrelas](https://user-images.githubusercontent.com/123902058/225525557-52e5891f-e787-49dd-b5ce-d8ca6d4fcd8e.gif)
