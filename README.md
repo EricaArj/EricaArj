@@ -1,4 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08a24a&height=120&section=header"/>
+![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a24a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erica+Araújo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -13,5 +16,8 @@
 <br><p align="centre"><b>Contagem de Visitantes</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
 <br></div>
- 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08a24a&height=120&section=footer"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)
