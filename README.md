@@ -6,6 +6,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EricaArj&show_icons=true&count_private=true&hide_border=true&title_color=ffdb26&icon_color=ffdb26&text_color=c9d1d9&bg_color=0d1117" alt="Erica Araújo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaArj&layout=compact&hide_border=true&title_color=ffdb26&text_color=ffdb26&bg_color=0d1117" />
 </div>
+
+! [Gráfico de atividade do Github] (https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&theme=gotham)
  
 
  
