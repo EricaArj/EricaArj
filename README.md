@@ -7,11 +7,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricaArj&layout=compact&hide_border=true&title_color=08a24a&text_color=08a24a&bg_color=0d1117" />
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
 <br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div style="display: inline_block"><br>
+  <div align="center">
+    <img align="center" alt="Eri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Eri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Eri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </div>
+</div>
 
 ![Gitstaly](https://user-images.githubusercontent.com/123902058/225516584-0795497c-7e07-412c-9b13-51276b1d02b7.gif)
