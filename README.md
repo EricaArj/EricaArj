@@ -1,4 +1,4 @@
-![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)
+
 
 
 
@@ -20,4 +20,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EricaArj&bg_color=0d1117&color=0aff68&line=008a4e&point=0d1117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)![ayarn-niks-server](https://user-images.githubusercontent.com/123902058/225512139-14706ea8-b5ec-441f-9d76-086c8f8e3cd7.gif)
