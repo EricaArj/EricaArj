@@ -17,11 +17,18 @@
 
 <div style="display: inline_block"><br>
   <div align="center">
-    <img align="center" alt="Eri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Eri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Eri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Eri-Spring" height="35" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+    <img align="center" alt="Eri-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Eri-git" height="35" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" >
+     <img align="center" alt="Eri-masql" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Eri-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Eri-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Eri-angular" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
+    <img align="center" alt="Eri-bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img align="center" alt="Eri-heroku" height="35" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
     </div>
 </div>
+
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p> 
