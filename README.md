@@ -19,7 +19,7 @@
   <div align="center">
     <img align="center" alt="Eri-Spring" height="35" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
     <img align="center" alt="Eri-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Eri-masql" height="70" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Eri-masql" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Eri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Eri-git" height="35" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" >
     <img align="center" alt="Eri-angular" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
