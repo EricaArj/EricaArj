@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a24a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erica+Araújo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-br>
+
 <div align="center">
  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=EricaArj&theme=react&background=&stroke=DDD&ring=00FF00&fire=00FF00&currStreakNum=00FF00" />
 </div>
