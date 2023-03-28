@@ -33,4 +33,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
 <br></div>
 
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/ericaaraujojw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <div> 
+ 
+</div>
+
 ![feweqweqwa](https://user-images.githubusercontent.com/123902058/225527463-fb344993-016e-4e19-a33b-c9f17902b9f7.gif)
