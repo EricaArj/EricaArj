@@ -1,4 +1,4 @@
-![feweqweqwa](https://user-images.githubusercontent.com/123902058/225527463-fb344993-016e-4e19-a33b-c9f17902b9f7.gif)
+
 
 ![git2](https://user-images.githubusercontent.com/123902058/232264013-c1777c9d-f596-47bd-be6a-60d22067604f.gif)
 
@@ -44,4 +44,4 @@
 
 
 
-![feweqweqwa](https://user-images.githubusercontent.com/123902058/225527463-fb344993-016e-4e19-a33b-c9f17902b9f7.gif)
+
