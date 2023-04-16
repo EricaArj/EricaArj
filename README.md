@@ -1,7 +1,11 @@
 ![feweqweqwa](https://user-images.githubusercontent.com/123902058/225527463-fb344993-016e-4e19-a33b-c9f17902b9f7.gif)
 
+![git2](https://user-images.githubusercontent.com/123902058/232264013-c1777c9d-f596-47bd-be6a-60d22067604f.gif)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08a24a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Erica+Araújo;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
 
 
 <div align="center"><br>
@@ -35,5 +39,9 @@
  <div> 
  
 </div>
+
+![git1](https://user-images.githubusercontent.com/123902058/232263970-048d1232-9f41-4af6-8d3f-9cf837f7577c.gif)
+
+
 
 ![feweqweqwa](https://user-images.githubusercontent.com/123902058/225527463-fb344993-016e-4e19-a33b-c9f17902b9f7.gif)
