@@ -8,7 +8,7 @@
 
 <div style="display: inline_block"><br>
   <div align="center">
-    <img align="center" alt="Eri-Spring" height="35" width="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
+    <img align="center" alt="Eri-Spring" height="45" width="60" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
     <img align="center" alt="Eri-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Eri-masql" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Eri-React" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
