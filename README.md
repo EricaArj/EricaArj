@@ -18,19 +18,22 @@
     <img align="center" alt="Eri-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Eri-heroku" height="35" width="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
     <img align="center" alt="Eri-bootstrap" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    </div>
+  </div>
 </div>
 
-
 <div align="center">
-<br><p align="centre"><b>Contagem de Visitantes</b></p> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EricaArj}/count.svg" /></p> 
-<br></div>
+  <br><p align="center"><b>Contagem de Visitantes</b></p>  
+  <!-- Novo Contador Minimalista na cor rosa (#FF69B4) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=EricaArj&color=FF69B4&style=flat-square&label=VISITANTES" alt="Contador de Visitantes" />
+  </p>  
+  <br>
+</div>
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/ericaaraujojw/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <div> 
- 
+<div align="center">  
+  <a href="https://www.linkedin.com/in/ericaaraujojw/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>  
 </div>
 
 ![git1](https://user-images.githubusercontent.com/123902058/232263970-048d1232-9f41-4af6-8d3f-9cf837f7577c.gif)
